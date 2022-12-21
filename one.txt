@@ -1,7 +1,11 @@
 this is my first doc
 
+<<<<<<< HEAD
 made changes
 
 This is error
 danayt
 
+=======
+made changes
+>>>>>>> parent of 66965f7 (this is error commit)
